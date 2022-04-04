@@ -7,3 +7,4 @@ def somaAlgarismos(n):
 
 n = int(input("Digite o número que você quer somar: "))
 print(somaAlgarismos(n))
+print(":)")
